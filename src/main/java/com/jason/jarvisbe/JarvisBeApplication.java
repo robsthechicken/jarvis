@@ -1,13 +1,13 @@
-package com.jason.jarvis;
+package com.jason.jarvisbe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JarvisApplication {
+public class JarvisBeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(JarvisApplication.class, args);
+        SpringApplication.run(JarvisBeApplication.class, args);
     }
 
 }

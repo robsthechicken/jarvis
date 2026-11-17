@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.jason</groupId>
-    <artifactId>jarvis</artifactId>
+    <artifactId>jarvis-be</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>jarvis</name>
-    <description>jarvis</description>
+    <name>jarvis-be</name>
+    <description>Backend API for Jarvis: local RAG assistant (Spring Boot, Spring AI, Ollama, pgvector)</description>
     <url/>
     <licenses>
         <license/>

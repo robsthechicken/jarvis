@@ -1,10 +1,10 @@
-package com.jason.jarvis;
+package com.jason.jarvisbe;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JarvisApplicationTests {
+class JarvisBeApplicationTests {
 
     @Test
     void contextLoads() {

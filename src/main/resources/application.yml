@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: jarvis
+    name: jarvis-be
 
   profiles:
     active: local
@@ -30,7 +30,7 @@ spring:
       base-url: http://localhost:11434
       chat:
         options:
-          model: gemma3:4b
+          model: gemma4:e4b
           temperature: 0.1
           num-ctx: 8192
       embedding:
